@@ -1,0 +1,2 @@
+$name = "tefa";
+echo $name;
